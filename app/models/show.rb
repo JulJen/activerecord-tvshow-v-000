@@ -32,5 +32,4 @@ class Show < ActiveRecord::Base
     self.order(name: :asc)
   end
 
-
 end
